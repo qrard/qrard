@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @qrard
-- 👀 I’m interested in: Coding
-- 🌱 I’m currently learning: Kotlin, Java, Python.
-- 💞️ I’m looking to collaborate on: I'm not.
-- 📫 How to reach me: You can't.
+- 👀 I’m interested in: Coding, getting a girlfriend which cancels out the coding part.
+- 🌱 I’m currently a beginner in python, but I could make anything you ask me for, I'd just need to have some time. 
+- 💞️ I’m looking to collaborate on: Tinder, please do.
+- 📫 How to reach me: Match with me on Tinder, please.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 90% of gambling addicts quit, right before they hit it big.
-
-<!---
-qrard/qrard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: 90% of gambling addicts quit, right before they hit it big. <-- Plays a big part of myself. I quit too early. I need to gamble more.
