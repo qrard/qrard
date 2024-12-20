@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @qrard
-- 👀 I’m interested in: Coding, getting a girlfriend which cancels out the coding part.
-- 🌱 I’m currently a beginner in python, but I could make anything you ask me for, I'd just need to have some time. 
-- 💞️ I’m looking to collaborate on: Tinder, please do.
-- 📫 How to reach me: Match with me on Tinder, please.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact
+- 👋 Hi, I’m @qrard!
+- 👀 I’m interested in: Female.
+- 🌱 I’m currently a beginner in python, and Godot. I can mod games somewhat (People playground for example), if I'm not drained.
+- 💞️ If you have any concerns, or questions, message me on discord, my handle is; "qrard"
+- 📫 How to reach me: Throughout discord, my handle is mentioned above.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I have a shitty Laptop.
