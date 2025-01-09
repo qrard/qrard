@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qrard!
 - 👀 I’m interested in: Female.
-- 🌱 I’m currently a beginner in python, and Godot. I can mod games somewhat (People playground for example), if I'm not drained.
+- 🌱 I’m currently a beginner in C++.
 - 💞️ If you have any concerns, or questions, message me on discord, my handle is; "qrard"
 - 📫 How to reach me: Throughout discord, my handle is mentioned above.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I have a shitty Laptop.
+- ⚡ Fun fact: 
