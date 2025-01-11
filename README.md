@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @qrard!
-- 👀 I’m interested in: Female.
+- 👋 std::cout << "Hi, I’m @qrard!" << std::endl;
+- 👀 I’m interested in: Creating software; (All sorts of things).
 - 🌱 I’m currently a beginner in C++.
-- 💞️ If you have any concerns, or questions, message me on discord, my handle is; "qrard"
+- 💞️ If you have any concerns, or questions, private message me on discord, my handle is; "qrard".
 - 📫 How to reach me: Throughout discord, my handle is mentioned above.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: 
