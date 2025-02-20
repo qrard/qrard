@@ -1,6 +1,6 @@
-- 👋 std::cout << "Hi, I’m @qrard!" << std::endl;
+- 👋 Console.WriteLine($"Hi, I’m {qrard}!");
 - 👀 I’m interested in: Creating software; (All sorts of things).
-- 🌱 I’m currently a beginner in C++.
+- 🌱 I’m currently a beginner in C#.
 - 💞️ If you have any concerns, or questions, private message me on discord, my handle is; "qrard".
 - 📫 How to reach me: Throughout discord, my handle is mentioned above.
 - 😄 Pronouns: He/Him.
