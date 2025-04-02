@@ -1,6 +1,5 @@
-- 👋 Console.WriteLine($"Hi, I’m {qrard}!");
-- 👀 I’m interested in: Creating software; (All sorts of things).
-- 🌱 I’m currently a beginner in C#.
-- 💞️ If you have any concerns, or questions, private message me on discord, my handle is; "qrard".
-- 📫 How to reach me: Throughout discord, my handle is mentioned above.
+- 👋 Hello!
+- 👀 I’m interested in: Coding applications!
+- 🌱 I’m currently a beginner in C++
+- 📫 How to reach me: Throughout discord, the handle is "qrard".
 - 😄 Pronouns: He/Him.
